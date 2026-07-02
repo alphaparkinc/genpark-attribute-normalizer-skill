@@ -1,3 +1,3 @@
-﻿# genpark-attribute-normalizer-skill
+# genpark-attribute-normalizer-skill
 
-Ready to use SDK library for genpark-attribute-normalizer-skill.
+Production-ready agent skill for Categories attributes normalizer.
